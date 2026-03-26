@@ -1,6 +1,9 @@
 # Dockerized-website-AWS
 This project deployed containerized portfolio website on AWS EC2 using Docker, Nginx and Application Load Balancer
 
+
+
+
 Technologies Used:
 
 Linux
@@ -9,8 +12,11 @@ Docker
 Nginx
 Git & GitHub
 
+
+
+
 Project Structure:
 
 mysite/
-├── Dockerfile
-└── index.html
+Dockerfile
+index.html
